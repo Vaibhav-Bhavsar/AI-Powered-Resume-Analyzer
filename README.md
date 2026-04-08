@@ -102,5 +102,5 @@ streamlit run app.py
 - **6 Job Matches** — ranked roles with salary ranges & match %
 - **Demo Mode** — instant showcase without uploading any file
 
-
+> **Live Demo:** [Click here to try ResumeIQ](https://ai-powered-resume-analyzer-rnpk5wkvmvvgna2ghgupf8.streamlit.app/)
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/5a05a594-2187-4405-ae98-e62b3e1387e0" />
