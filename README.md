@@ -1,6 +1,6 @@
 # ⚡ ResumeIQ — AI Resume Analyzer & Job Matcher
 
-> Python · Streamlit · Anthropic Claude · NLP · LLM
+> Python · Streamlit ·  NLP · LLM
 
 ---
 
